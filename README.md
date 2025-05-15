@@ -1,53 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+<br><br># 👋 Hi, I'm Siddharth Valecha<br><br>🎓 MCA Student @ IIPS DAVV | 👨‍💻 Aspiring Full-Stack Developer  <br>💡 Passionate about solving real-world problems with clean, scalable code.  <br><br>---<br><br>### 🛠️ Tech Stack<br>- **Languages:** Java (Core + Advanced), HTML, CSS, SQL  <br>- **Frontend:** HTML, CSS, Bootstrap  <br>- **Backend:** Java (JSP, Servlets), Struts, Hibernate  <br>- **Database:** MySQL  <br>- **Tools:** NetBeans, Eclipse  <br><br>---<br><br>### 💼 Projects<br><br>#### 🚛 The Shifting Hub<br>A dynamic web platform for international relocation and logistics.  <br>Features: Google Maps integration, booking system, secure login, and a product resale module.<br><br>#### 🛋️ Rentify Hub<br>Helps students rent daily-use items (electronics, books, furniture) with ease.  <br>Built using JSP & MySQL with rental duration selection and booking management.<br><br>#### 🔧 Fuel and Mechanic<br>Static info site for accessing nearby mechanics and fuel stations with contact and service details.<br><br>---<br><br>### 📜 Certifications<br>- Corporate Java Course – Technosoft Informatics  <br>- Core & Advanced Java – Technosoft Informatics  <br>- Google Cloud Certification<br><br>---<br><br>### 🤝 Soft Skills<br>- Problem Solving | Communication | Teamwork | Quick Learner<br><br>---<br><br>### 📫 Let's Connect!<br>- 📍 Indore, India  <br>- 📧 siddharthvalecha319b@gmail.com  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/siddharth-valecha)<br><br>---<br><br>_“Striving to code solutions that make life simpler, one line at a time.”_<br>
 
-# 👋 Hi, I'm Siddharth Valecha
 
-🎓 MCA Student @ IIPS DAVV | 👨‍💻 Aspiring Full-Stack Developer  
-💡 Passionate about solving real-world problems with clean, scalable code.  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddharthvalecha) 
 
----
-
-### 🛠️ Tech Stack
-- **Languages:** Java (Core + Advanced), HTML, CSS, SQL  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** Java (JSP, Servlets), Struts, Hibernate  
-- **Database:** MySQL  
-- **Tools:** NetBeans, Eclipse  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=siddharthvalecha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=siddharthvalecha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthvalecha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=siddharthvalecha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💼 Projects
-
-#### 🚛 The Shifting Hub
-A dynamic web platform for international relocation and logistics.  
-Features: Google Maps integration, booking system, secure login, and a product resale module.
-
-#### 🛋️ Rentify Hub
-Helps students rent daily-use items (electronics, books, furniture) with ease.  
-Built using JSP & MySQL with rental duration selection and booking management.
-
-#### 🔧 Fuel and Mechanic
-Static info site for accessing nearby mechanics and fuel stations with contact and service details.
-
----
-
-### 📜 Certifications
-- Corporate Java Course – Technosoft Informatics  
-- Core & Advanced Java – Technosoft Informatics  
-- Google Cloud Certification
-
----
-
-### 🤝 Soft Skills
-- Problem Solving | Communication | Teamwork | Quick Learner
-
----
-
-### 📫 Let's Connect!
-- 📍 Indore, India  
-- 📧 siddharthvalecha319b@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddharth-valecha)
-
----
-
-_“Striving to code solutions that make life simpler, one line at a time.”_
