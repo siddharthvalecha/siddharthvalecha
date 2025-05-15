@@ -6,6 +6,9 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <div style="flex: 1;">
+
+ <img align='right' src="https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966" alt="Coding GIF" width="300" style="border-radius: 10px;" />
+</div>
     
 ## 💫 About Me
 
@@ -13,8 +16,7 @@ I am currently pursuing an Integrated MCA degree from IIPS DAVV with a strong pa
 
   </div>
 
-  <img src="https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966" alt="Coding GIF" width="300" style="border-radius: 10px;" />
-</div>
+ 
 
 ---
 
