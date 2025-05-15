@@ -13,8 +13,7 @@ I am currently pursuing an Integrated MCA degree from IIPS DAVV with a strong pa
 
   </div>
 
-  <img src="[![image](https://github.com/user-attachments/assets/c6b9f483-449f-42c3-8f33-d544d39bc207](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966))
-" alt="Coding GIF" width="300" style="border-radius: 10px;" />
+  <img src="https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966" alt="Coding GIF" width="300" style="border-radius: 10px;" />
 </div>
 
 ---
