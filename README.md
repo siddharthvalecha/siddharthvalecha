@@ -117,20 +117,13 @@ A clean, static info portal helping users find **local mechanics and fuel statio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthvalecha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=siddharthvalecha&theme=dark&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthvalecha&theme=default&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=siddharthvalecha&theme=default&hide_border=false" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthvalecha&theme=dark&hide_border=false&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthvalecha&theme=default&hide_border=false&layout=compact" width="45%" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=siddharthvalecha&label=Profile%20Views&color=12&icon=5" />
-</p>
-
 ---
 
 _“Striving to code solutions that make life simpler, one line at a time.”_
