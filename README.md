@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Siddharth Valecha</h1>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h1 align="center">👋 Hi, I'm Siddharth Valecha</h1>
 <h3 align="center">🎓 MCA Student @ IIPS DAVV | 👨‍💻 Aspiring Full-Stack Developer</h3>
 <p align="center">💡 I love building efficient, user-friendly web solutions that solve real-world problems.</p>
 
@@ -125,3 +128,9 @@ A clean, static info portal helping users find **local mechanics and fuel statio
 ---
 
 _“Striving to code solutions that make life simpler, one line at a time.”_
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/siddharthvalecha/siddharthvalecha/blob/main/gif.gif" alt="Coding GIF" width="250" />
+    </td>
+  </tr>
+</table>
