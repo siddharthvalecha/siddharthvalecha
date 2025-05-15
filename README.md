@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**siddharthvalecha/siddharthvalecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Siddharth Valecha
 
 🎓 MCA Student @ IIPS DAVV | 👨‍💻 Aspiring Full-Stack Developer  
@@ -21,7 +18,7 @@
 
 ### 💼 Projects
 
-#### 🚛 [The Shifting Hub](#)
+#### 🚛 The Shifting Hub
 A dynamic web platform for international relocation and logistics.  
 Features: Google Maps integration, booking system, secure login, and a product resale module.
 
